@@ -272,9 +272,12 @@
                     "twitter" : "@newreporter_org",
                     "github" : "",
                     "facebook" : "oleg.gant",
-                    "urls": {
-                        "te-st.ru" : "http://te-st.ru"
-                    }
+                    "urls": [
+                        {
+                            "name" : "te-st.ru",
+                            "url" : "http://te-st.ru"
+                        }
+                    ]
                 },
                 "description": "",
                 "href": "",
@@ -298,9 +301,12 @@
                     "twitter" : "",
                     "github" : "mikolajs",
                     "facebook" : "",
-                    "urls": {
-                        "Open School Platform" : "http://epodrecznik.edu.pl"
-                    }
+                    "urls": [
+                        {
+                            "name" : "Open School Platform",
+                            "url" : "http://epodrecznik.edu.pl"
+                        }
+                    ]
                 },
                 "description": "",
                 "href": "",
@@ -324,9 +330,12 @@
                     "twitter" : "",
                     "github" : "",
                     "facebook" : "damian.dzieduch",
-                    "urls": {
-                        "My profile" : "http://inspro.org.pl/wspolpracownicy/damian-dzieduch/"
-                    }
+                    "urls": [
+                        {
+                            "name" : "My profile",
+                            "url" : "http://inspro.org.pl/wspolpracownicy/damian-dzieduch/"
+                        }
+                    ]
                 },
                 "description": "",
                 "href": "",
@@ -350,9 +359,12 @@
                     "twitter" : "@pawelpurski",
                     "github" : "",
                     "facebook" : "",
-                    "urls": {
-                        "Common Europe Foundation" : "http://www.wspolna.org"
-                    }
+                    "urls": [
+                        {
+                            "name" : "Common Europe Foundation",
+                            "url" : "http://www.wspolna.org"
+                        }
+                    ]
                 },
                 "description": "",
                 "href": "",
@@ -376,10 +388,16 @@
                     "twitter" : "",
                     "github" : "aplikacjespoleczne",
                     "facebook" : "",
-                    "urls": {
-                        "Civic applications" : "http://aplikacjespoleczne.pl",
-                        "ChomONto Foundation" : "http://chomonto.pl"
-                    }
+                    "urls": [
+                        {
+                            "name" : "Civic applications",
+                            "url" : "http://aplikacjespoleczne.pl"
+                        },
+                        {
+                            "name: " : "ChomONto Foundation",
+                            "url" : "http://chomonto.pl"
+                        }
+                    ]
                 },
                 "description": "",
                 "href": "",
