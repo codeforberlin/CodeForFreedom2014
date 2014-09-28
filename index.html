@@ -9,6 +9,9 @@
     <script data-main="js/main" src="js/require.js"></script>
     <script id="popup-template" type="text/x-handlebars-template">
       <h1 class="person">{{ name }} </h1>
+      {{# if location }}
+      <p class="social"> from {{ location }} </p>
+      {{/if}}
       {{# if twitter }}
       <p class="social"><i class="fa fa-twitter"></i> Twitter: <a target="_blank" href="http://twitter.com/{{ twitter }}">{{ twitter }} </a> </p>
       {{/if}}
@@ -30,9 +33,19 @@
               .leaflet-popup-content p {
                 margin: 0;
               }
+              #name{
+                z-index: 200;
+                position: absolute;
+                top: 25px;
+                right: 25px;
+                background-color:lightgray;
+                border-radius: 5px;
+                padding: 5px;
+              }
             </style>
           </head>
           <body>
+            <img src="http://www.codeforfreedom.org/wp-content/themes/codeforfreedom/images/logo.png" id="name"/>
             <div id='map'>
             </div>
           </body>
