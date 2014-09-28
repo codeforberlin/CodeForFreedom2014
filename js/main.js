@@ -44,9 +44,13 @@ require(["leaflet"], function(L){
     mappedPeople = L.geoJson(data, {
       onEachFeature: function (feature, layer) {
         // TODO: Render popup
+        var content =
+            '<h1 class="person">' + layer.feature.properties.data.name + '<\/h1>' +
+            '<p class="social">Twitter: ' + layer.feature.properties.data.twitter + '<\/p>' +
+            '<p class="social">Github: <a href="http:\/\/github.com\/' + layer.feature.properties.data.github + '">' + layer.feature.properties.data.github + '<a><\/p>';
+        layer.bindPopup(content);
       }
     }).addTo(map);
   }
-
 
 });
