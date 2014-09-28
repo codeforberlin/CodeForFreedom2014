@@ -282,10 +282,160 @@
                 "title": ""
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.5809244,
+                    54.4190097
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Mikolaj Sochacki",
+                    "location": "Gdansk",
+                    "twitter" : "",
+                    "github" : "mikolajs",
+                    "facebook" : "",
+                    "urls": {
+                        "Open School Platform" : "http://epodrecznik.edu.pl"
+                    }
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.473425,
+                    51.718307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Damian Dzieduch",
+                    "location": "Lodz",
+                    "twitter" : "",
+                    "github" : "",
+                    "facebook" : "damian.dzieduch",
+                    "urls": {
+                        "My profile" : "http://inspro.org.pl/wspolpracownicy/damian-dzieduch/"
+                    }
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.0328586,
+                    52.2668695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Pawel Purski",
+                    "location": "Warsaw",
+                    "twitter" : "@pawelpurski",
+                    "github" : "",
+                    "facebook" : "",
+                    "urls": {
+                        "Common Europe Foundation" : "http://www.wspolna.org"
+                    }
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.4744321,
+                    51.7645146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Weronika Grzejszczak",
+                    "location": "Lodz",
+                    "twitter" : "",
+                    "github" : "aplikacjespoleczne",
+                    "facebook" : "",
+                    "urls": {
+                        "Civic applications" : "http://aplikacjespoleczne.pl",
+                        "ChomONto Foundation" : "http://chomonto.pl"
+                    }
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.8636335,
+                    59.484109
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Sergii Kyrylkov",
+                    "location": "Tallinn, Estonia",
+                    "twitter" : "kyrylkov",
+                    "github" : "kyrylkov",
+                    "facebook" : "sergiy.kyrylkov",
+                    "urls": {}
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5848138,
+                    53.9353141
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Ilya Shyla",
+                    "location": "Minsk, Belarus",
+                    "twitter" : "",
+                    "github" : "ilyashyla",
+                    "facebook" : "ilya.shyla",
+                    "urls": {}
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
         }
-
-
-
 
     ]
 }
