@@ -453,6 +453,280 @@
                 "title": ""
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5848138,
+                    53.9353141
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Ania Marczak",
+                    "location": "Oswiecim, Poland",
+                    "twitter" : "",
+                    "github" : "",
+                    "facebook" : "",
+                    "email" : "a.m.m.marczak@gmail.com",
+                    "urls": [
+                        {
+                            "name" : "Gen of freedom project",
+                            "url" : "http://genwolnosci.pl"
+                        }
+                    ]
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.3935353,
+                    43.8494382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Feda Kulenovic",
+                    "location": "Sarajevo, Bosnia and Herzegovina",
+                    "twitter" : "@kulinba",
+                    "github" : "kulinba",
+                    "facebook" : "",
+                    "email" : "fedjak@gmail.com",
+                    "urls": {
+                    }
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.2934895,
+                    54.6821065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Ingrida Palaimaite",
+                    "location": "Vilnius, Lithuania",
+                    "twitter" : "",
+                    "github" : "",
+                    "facebook" : "",
+                    "email" : "ingrida@transparency.lt",
+                    "urls": [
+                        {
+                            "name" : "Transparency International Lithuania",
+                            "url" : "http://transparency.lt"
+                        },
+                        {
+                            "name" : "Stirna",
+                            "url" : "http://stirna.info"
+                        }
+                    ]
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.626122,
+                    50.465517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Victor Miletsky",
+                    "location": "Kyiv, Ukraine",
+                    "twitter" : "",
+                    "github" : "",
+                    "facebook" : "",
+                    "email" : "",
+                    "urls": [
+                        {
+                            "name" : "Veedoo",
+                            "url" : "http://veedoo.io"
+                        },
+                        {
+                            "name" : "Personal Page",
+                            "url" : "http://victor.miletskiy.name"
+                        }
+                    ]
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.0309965,
+                    52.2014029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Maciej Bilas",
+                    "location": "Warsaw, Poland",
+                    "twitter" : "@maciejb",
+                    "github" : "maciej",
+                    "facebook" : "maciejb",
+                    "email" : "maciej.bilas@gmail.com",
+                    "urls": [
+                        {
+                            "name" : "ElectionsBiH",
+                            "url" : "http://github.com/ZastoNe/electionsBiH"
+                        }
+                    ]
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.7431302,
+                    41.7263249
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Eric Barrett",
+                    "location": "Tbilisi, Georgia",
+                    "twitter" : "ericnbarrett",
+                    "github" : "",
+                    "facebook" : "",
+                    "email" : "",
+                    "urls": [
+                        {
+                            "name" : "StoryBuilder",
+                            "url" : "http://storybuilder.jumpstart.ge/"
+                        }
+                    ]
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.77571,
+                    41.7016655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Jason Addie",
+                    "location": "Tbilisi, Georgia",
+                    "twitter" : "",
+                    "github" : "jasonaddie",
+                    "facebook" : "",
+                    "email" : "",
+                    "urls": [
+                        {
+                            "name" : "feradi.info",
+                            "url" : "http://feradi.info"
+                        }
+                    ]
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.605435,
+                    54.38186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Jerzy Brodzikowski",
+                    "location": "Gdansk",
+                    "twitter" : "@jerzy_brod",
+                    "github" : "",
+                    "facebook" : "",
+                    "email" : "jerzy.brodzikowski@gmail.com",
+                    "urls": [
+                        {
+                            "name" : "SOLIDARITY SHORTS - INTERNATIONAL FILM CONTEST",
+                            "url" : "http://www.solidarityshorts.org"
+                        }
+                    ]
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.1606045,
+                    44.4181666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Andrei Cristian Petcu",
+                    "location": "Bucharest, Romania",
+                    "twitter" : "",
+                    "github" : "andreicristianpetcu",
+                    "facebook" : "",
+                    "email" : "",
+                    "urls": [
+                        {
+                            "name" : "Tribunal",
+                            "url" : "http://onoratainstanta.ro/"
+                        }
+                    ]
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
         }
 
     ]
