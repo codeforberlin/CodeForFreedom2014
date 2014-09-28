@@ -727,6 +727,66 @@
                 "title": ""
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.567126,
+                    55.694463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Denis",
+                    "location": "Moscow",
+                    "twitter" : "@rykovd",
+                    "github" : "drnextgis",
+                    "facebook" : "",
+                    "email" : "",
+                    "urls": [
+                        {
+                            "name" : "Votemapper",
+                            "url" : "http://nextgis.github.io/vm-2011-moscow-duma/"
+                        }
+                    ]
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.0188435,
+                    52.1975395
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Kamil",
+                    "location": "Warszawa, Poland",
+                    "twitter" : "",
+                    "github" : "",
+                    "facebook" : "Dzakus",
+                    "email" : "dzakus13@gmail.com",
+                    "urls": [
+                        {
+                            "name" : "Civic Data Mining",
+                            "url" : "http://dane.siecobywatelska.pl/"
+                        }
+                    ]
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
         }
 
     ]
