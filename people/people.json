@@ -787,6 +787,36 @@
                 "title": ""
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.0221943,
+                    52.2343439
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Magda",
+                    "location": "Warsaw",
+                    "twitter" : "",
+                    "github" : "",
+                    "facebook" : "",
+                    "email" : "",
+                    "urls": [
+                        {
+                            "name" : "",
+                            "url" : "http://"
+                        }
+                    ]
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
         }
 
     ]
