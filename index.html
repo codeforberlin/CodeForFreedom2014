@@ -18,6 +18,9 @@
           {{# if facebook }}
           <p class="social"><i class="fa fa-facebook"></i> Facebook: <a target="_blank" href="https://facebook.com/{{ facebook }}">{{ facebook }}</a></p>
               {{/if}}
+          {{# if email }}
+          <p class="social"><i class="fa fa-envelope"></i> E-Mail: <a target="_blank" href="mailto:{{ email }}">{{ email }}</a></p>
+              {{/if}}
 
           {{# each urls }}
           <p class="social"><i class="fa fa-cloud"></i> Website: <a target="_blank" href="{{ url }}">{{ name }}</a></p>
