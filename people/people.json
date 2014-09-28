@@ -1,823 +1,906 @@
 {
-    "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    13.3372238,
-                    52.5500361
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Tobias Preuss",
-                    "location": "Berlin",
-                    "twitter" : "@tbsprs",
-                    "github" : "johnjohndoe",
-                    "urls": [{ "name":
-                        "Code for Berlin", "url": "http://codefor.de/berlin"
-                    }]
-                },
-                "description": "",
-                "href": "http://codefor.de/berlin",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.3372238,
+          52.5500361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Tobias Preuss",
+          "location": "Berlin",
+          "twitter" : "@tbsprs",
+          "github" : "johnjohndoe",
+          "urls": [{ "name":
+            "Code for Berlin", "url": "http://codefor.de/berlin"
+          }]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    13.5119682,
-                    52.5322257
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Thomas Tursics ",
-                    "location": "Berlin",
-                    "twitter": "@tursics",
-                    "github" : "tursics",
-                    "urls": [{ "name":
-                        "Code for Berlin", "url": "http://codefor.de/berlin"
-                    }]
-                },
-                "description": "",
-                "href": "http://codefor.de/berlin",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "http://codefor.de/berlin",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5119682,
+          52.5322257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Thomas Tursics ",
+          "location": "Berlin",
+          "twitter": "@tursics",
+          "github" : "tursics",
+          "urls": [{ "name":
+            "Code for Berlin", "url": "http://codefor.de/berlin"
+          }]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    18.4633968,
-                    54.5037932
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Martyna Adamczak",
-                    "location": "Gdynia",
-                    "twitter" : "@galeriawdomu",
-                    "github" : "",
-                    "urls": [{
-                        "name":"galeriawdomu.pl", "url": "http://galeriawdomu.pl"
-                    }]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "http://codefor.de/berlin",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4633968,
+          54.5037932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Martyna Adamczak",
+          "location": "Gdynia",
+          "twitter" : "@galeriawdomu",
+          "github" : "",
+          "urls": [{
+            "name":"galeriawdomu.pl", "url": "http://galeriawdomu.pl"
+          }]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    18.446865,
-                    54.549866
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Magdalena Abraham",
-                    "location": "Gdynia",
-                    "twitter" : "",
-                    "github" : "",
-                    "facebook" : "magdalena.abraham.9",
-                    "urls": {
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.446865,
+          54.549866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Magdalena Abraham",
+          "location": "Gdynia",
+          "twitter" : "",
+          "github" : "",
+          "facebook" : "magdalena.abraham.9",
+          "urls": {
 
-                    }
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+          }
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    16.9107843,
-                    51.1392662
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Radek",
-                    "location": "Wroclaw",
-                    "twitter" : "@ripemd",
-                    "github" : "",
-                    "facebook" : "",
-                    "urls": {
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9107843,
+          51.1392662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Radek",
+          "location": "Wroclaw",
+          "twitter" : "@ripemd",
+          "github" : "",
+          "facebook" : "",
+          "urls": {
 
-                    }
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+          }
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    19.4954952,
-                    51.7604993
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Andrzej",
-                    "location": "Lodz",
-                    "twitter" : "@mikolajewski_a",
-                    "github" : "",
-                    "facebook" : "andr.mikw",
-                    "urls": [{
-                        "name":"Obywatele rozliczaja", "url" : "http://obywatelerozliczaja.pl"
-                    }]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.4954952,
+          51.7604993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Andrzej",
+          "location": "Lodz",
+          "twitter" : "@mikolajewski_a",
+          "github" : "",
+          "facebook" : "andr.mikw",
+          "urls": [{
+            "name":"Obywatele rozliczaja", "url" : "http://obywatelerozliczaja.pl"
+          }]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    60.6549335,
-                    56.813891
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Sergey",
-                    "location": "Ekaterinburg",
-                    "twitter" : "@poteryaevs",
-                    "github" : "",
-                    "facebook" : "",
-                    "urls": [{
-                        "name":"Map for homeless people", "url" : "http://partizaning.org/warsaw"
-                    }]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          60.6549335,
+          56.813891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Sergey",
+          "location": "Ekaterinburg",
+          "twitter" : "@poteryaevs",
+          "github" : "",
+          "facebook" : "",
+          "urls": [{
+            "name":"Map for homeless people", "url" : "http://partizaning.org/warsaw"
+          }]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    37.632495,
-                    55.749792
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Svetlana Shuranova",
-                    "location": "Moscow",
-                    "twitter" : "@seasuaoa",
-                    "github" : "",
-                    "facebook" : "keepasecret",
-                    "urls": [{
-                        "name": "Basic record of everyone", "url" : "http://dostup.vps-private.net"
-                    }]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632495,
+          55.749792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Svetlana Shuranova",
+          "location": "Moscow",
+          "twitter" : "@seasuaoa",
+          "github" : "",
+          "facebook" : "keepasecret",
+          "urls": [{
+            "name": "Basic record of everyone", "url" : "http://dostup.vps-private.net"
+          }]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    2.3569074,
-                    48.8540588
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Olga Kravets",
-                    "location": "Paris",
-                    "twitter" : "",
-                    "github" : "",
-                    "facebook" : "olga.kravets",
-                    "urls": [{
-                        "name" :"olgakravets.com", "url" : "http://olgakravets.com"
-                    }]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3569074,
+          48.8540588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Olga Kravets",
+          "location": "Paris",
+          "twitter" : "",
+          "github" : "",
+          "facebook" : "olga.kravets",
+          "urls": [{
+            "name" :"olgakravets.com", "url" : "http://olgakravets.com"
+          }]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    37.663831,
-                    55.73133
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Igor Ponosov",
-                    "location": "Moscow",
-                    "twitter" : "",
-                    "github" : "",
-                    "facebook" : "igor.ponosov",
-                    "urls": [{
-                        "name": "partizaning.org", "url" : "http://partizaning.org"
-                    }]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663831,
+          55.73133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Igor Ponosov",
+          "location": "Moscow",
+          "twitter" : "",
+          "github" : "",
+          "facebook" : "igor.ponosov",
+          "urls": [{
+            "name": "partizaning.org", "url" : "http://partizaning.org"
+          }]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    37.632444,
-                    55.772293
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Oleg Gant",
-                    "location": "Moscow",
-                    "twitter" : "@newreporter_org",
-                    "github" : "",
-                    "facebook" : "oleg.gant",
-                    "urls": [
-                        {
-                            "name" : "te-st.ru",
-                            "url" : "http://te-st.ru"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632444,
+          55.772293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Oleg Gant",
+          "location": "Moscow",
+          "twitter" : "@newreporter_org",
+          "github" : "",
+          "facebook" : "oleg.gant",
+          "urls": [
+            {
+              "name" : "te-st.ru",
+              "url" : "http://te-st.ru"
+            }
+          ]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    18.5809244,
-                    54.4190097
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Mikolaj Sochacki",
-                    "location": "Gdansk",
-                    "twitter" : "",
-                    "github" : "mikolajs",
-                    "facebook" : "",
-                    "urls": [
-                        {
-                            "name" : "Open School Platform",
-                            "url" : "http://epodrecznik.edu.pl"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.5809244,
+          54.4190097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Mikolaj Sochacki",
+          "location": "Gdansk",
+          "twitter" : "",
+          "github" : "mikolajs",
+          "facebook" : "",
+          "urls": [
+            {
+              "name" : "Open School Platform",
+              "url" : "http://epodrecznik.edu.pl"
+            }
+          ]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    19.473425,
-                    51.718307
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Damian Dzieduch",
-                    "location": "Lodz",
-                    "twitter" : "",
-                    "github" : "",
-                    "facebook" : "damian.dzieduch",
-                    "urls": [
-                        {
-                            "name" : "My profile",
-                            "url" : "http://inspro.org.pl/wspolpracownicy/damian-dzieduch/"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.473425,
+          51.718307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Damian Dzieduch",
+          "location": "Lodz",
+          "twitter" : "",
+          "github" : "",
+          "facebook" : "damian.dzieduch",
+          "urls": [
+            {
+              "name" : "My profile",
+              "url" : "http://inspro.org.pl/wspolpracownicy/damian-dzieduch/"
+            }
+          ]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    22.0328586,
-                    52.2668695
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Pawel Purski",
-                    "location": "Warsaw",
-                    "twitter" : "@pawelpurski",
-                    "github" : "",
-                    "facebook" : "",
-                    "urls": [
-                        {
-                            "name" : "Common Europe Foundation",
-                            "url" : "http://www.wspolna.org"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          22.0328586,
+          52.2668695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Pawel Purski",
+          "location": "Warsaw",
+          "twitter" : "@pawelpurski",
+          "github" : "",
+          "facebook" : "",
+          "urls": [
+            {
+              "name" : "Common Europe Foundation",
+              "url" : "http://www.wspolna.org"
+            }
+          ]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    19.4744321,
-                    51.7645146
-                ],
-                "type": "Point"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.4744321,
+          51.7645146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Weronika Grzejszczak",
+          "location": "Lodz",
+          "twitter" : "",
+          "github" : "aplikacjespoleczne",
+          "facebook" : "",
+          "urls": [
+            {
+              "name" : "Civic applications",
+              "url" : "http://aplikacjespoleczne.pl"
             },
-            "properties": {
-                "data": {
-                    "name": "Weronika Grzejszczak",
-                    "location": "Lodz",
-                    "twitter" : "",
-                    "github" : "aplikacjespoleczne",
-                    "facebook" : "",
-                    "urls": [
-                        {
-                            "name" : "Civic applications",
-                            "url" : "http://aplikacjespoleczne.pl"
-                        },
-                        {
-                            "name: " : "ChomONto Foundation",
-                            "url" : "http://chomonto.pl"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+            {
+              "name: " : "ChomONto Foundation",
+              "url" : "http://chomonto.pl"
+            }
+          ]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    24.8636335,
-                    59.484109
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Sergii Kyrylkov",
-                    "location": "Tallinn, Estonia",
-                    "twitter" : "kyrylkov",
-                    "github" : "kyrylkov",
-                    "facebook" : "sergiy.kyrylkov",
-                    "urls": {}
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.8636335,
+          59.484109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Sergii Kyrylkov",
+          "location": "Tallinn, Estonia",
+          "twitter" : "kyrylkov",
+          "github" : "kyrylkov",
+          "facebook" : "sergiy.kyrylkov",
+          "urls": {}
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    27.5848138,
-                    53.9353141
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Ilya Shyla",
-                    "location": "Minsk, Belarus",
-                    "twitter" : "",
-                    "github" : "ilyashyla",
-                    "facebook" : "ilya.shyla",
-                    "urls": {}
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.5848138,
+          53.9353141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Ilya Shyla",
+          "location": "Minsk, Belarus",
+          "twitter" : "",
+          "github" : "ilyashyla",
+          "facebook" : "ilya.shyla",
+          "urls": {}
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    27.5848138,
-                    53.9353141
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Ania Marczak",
-                    "location": "Oswiecim, Poland",
-                    "twitter" : "",
-                    "github" : "",
-                    "facebook" : "",
-                    "email" : "a.m.m.marczak@gmail.com",
-                    "urls": [
-                        {
-                            "name" : "Gen of freedom project",
-                            "url" : "http://genwolnosci.pl"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.5848138,
+          53.9353141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Ania Marczak",
+          "location": "Oswiecim, Poland",
+          "twitter" : "",
+          "github" : "",
+          "facebook" : "",
+          "email" : "a.m.m.marczak@gmail.com",
+          "urls": [
+            {
+              "name" : "Gen of freedom project",
+              "url" : "http://genwolnosci.pl"
+            }
+          ]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    18.3935353,
-                    43.8494382
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Feda Kulenovic",
-                    "location": "Sarajevo, Bosnia and Herzegovina",
-                    "twitter" : "@kulinba",
-                    "github" : "kulinba",
-                    "facebook" : "",
-                    "email" : "fedjak@gmail.com",
-                    "urls": {
-                    }
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.3935353,
+          43.8494382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Feda Kulenovic",
+          "location": "Sarajevo, Bosnia and Herzegovina",
+          "twitter" : "@kulinba",
+          "github" : "kulinba",
+          "facebook" : "",
+          "email" : "fedjak@gmail.com",
+          "urls": {
+          }
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    25.2934895,
-                    54.6821065
-                ],
-                "type": "Point"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.2934895,
+          54.6821065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Ingrida Palaimaite",
+          "location": "Vilnius, Lithuania",
+          "twitter" : "",
+          "github" : "",
+          "facebook" : "",
+          "email" : "ingrida@transparency.lt",
+          "urls": [
+            {
+              "name" : "Transparency International Lithuania",
+              "url" : "http://transparency.lt"
             },
-            "properties": {
-                "data": {
-                    "name": "Ingrida Palaimaite",
-                    "location": "Vilnius, Lithuania",
-                    "twitter" : "",
-                    "github" : "",
-                    "facebook" : "",
-                    "email" : "ingrida@transparency.lt",
-                    "urls": [
-                        {
-                            "name" : "Transparency International Lithuania",
-                            "url" : "http://transparency.lt"
-                        },
-                        {
-                            "name" : "Stirna",
-                            "url" : "http://stirna.info"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+            {
+              "name" : "Stirna",
+              "url" : "http://stirna.info"
+            }
+          ]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    30.626122,
-                    50.465517
-                ],
-                "type": "Point"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.626122,
+          50.465517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Victor Miletsky",
+          "location": "Kyiv, Ukraine",
+          "twitter" : "",
+          "github" : "",
+          "facebook" : "",
+          "email" : "",
+          "urls": [
+            {
+              "name" : "Veedoo",
+              "url" : "http://veedoo.io"
             },
-            "properties": {
-                "data": {
-                    "name": "Victor Miletsky",
-                    "location": "Kyiv, Ukraine",
-                    "twitter" : "",
-                    "github" : "",
-                    "facebook" : "",
-                    "email" : "",
-                    "urls": [
-                        {
-                            "name" : "Veedoo",
-                            "url" : "http://veedoo.io"
-                        },
-                        {
-                            "name" : "Personal Page",
-                            "url" : "http://victor.miletskiy.name"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+            {
+              "name" : "Personal Page",
+              "url" : "http://victor.miletskiy.name"
+            }
+          ]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    21.0309965,
-                    52.2014029
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Maciej Bilas",
-                    "location": "Warsaw, Poland",
-                    "twitter" : "@maciejb",
-                    "github" : "maciej",
-                    "facebook" : "maciejb",
-                    "email" : "maciej.bilas@gmail.com",
-                    "urls": [
-                        {
-                            "name" : "ElectionsBiH",
-                            "url" : "http://github.com/ZastoNe/electionsBiH"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          21.0309965,
+          52.2014029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Maciej Bilas",
+          "location": "Warsaw, Poland",
+          "twitter" : "@maciejb",
+          "github" : "maciej",
+          "facebook" : "maciejb",
+          "email" : "maciej.bilas@gmail.com",
+          "urls": [
+            {
+              "name" : "ElectionsBiH",
+              "url" : "http://github.com/ZastoNe/electionsBiH"
+            }
+          ]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    44.7431302,
-                    41.7263249
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Eric Barrett",
-                    "location": "Tbilisi, Georgia",
-                    "twitter" : "ericnbarrett",
-                    "github" : "",
-                    "facebook" : "",
-                    "email" : "",
-                    "urls": [
-                        {
-                            "name" : "StoryBuilder",
-                            "url" : "http://storybuilder.jumpstart.ge/"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.7431302,
+          41.7263249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Eric Barrett",
+          "location": "Tbilisi, Georgia",
+          "twitter" : "ericnbarrett",
+          "github" : "",
+          "facebook" : "",
+          "email" : "",
+          "urls": [
+            {
+              "name" : "StoryBuilder",
+              "url" : "http://storybuilder.jumpstart.ge/"
+            }
+          ]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    44.77571,
-                    41.7016655
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Jason Addie",
-                    "location": "Tbilisi, Georgia",
-                    "twitter" : "",
-                    "github" : "jasonaddie",
-                    "facebook" : "",
-                    "email" : "",
-                    "urls": [
-                        {
-                            "name" : "feradi.info",
-                            "url" : "http://feradi.info"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.77571,
+          41.7016655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Jason Addie",
+          "location": "Tbilisi, Georgia",
+          "twitter" : "",
+          "github" : "jasonaddie",
+          "facebook" : "",
+          "email" : "",
+          "urls": [
+            {
+              "name" : "feradi.info",
+              "url" : "http://feradi.info"
+            }
+          ]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    18.605435,
-                    54.38186
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Jerzy Brodzikowski",
-                    "location": "Gdansk",
-                    "twitter" : "@jerzy_brod",
-                    "github" : "",
-                    "facebook" : "",
-                    "email" : "jerzy.brodzikowski@gmail.com",
-                    "urls": [
-                        {
-                            "name" : "SOLIDARITY SHORTS - INTERNATIONAL FILM CONTEST",
-                            "url" : "http://www.solidarityshorts.org"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.605435,
+          54.38186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Jerzy Brodzikowski",
+          "location": "Gdansk",
+          "twitter" : "@jerzy_brod",
+          "github" : "",
+          "facebook" : "",
+          "email" : "jerzy.brodzikowski@gmail.com",
+          "urls": [
+            {
+              "name" : "SOLIDARITY SHORTS - INTERNATIONAL FILM CONTEST",
+              "url" : "http://www.solidarityshorts.org"
+            }
+          ]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    26.1606045,
-                    44.4181666
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Andrei Cristian Petcu",
-                    "location": "Bucharest, Romania",
-                    "twitter" : "",
-                    "github" : "andreicristianpetcu",
-                    "facebook" : "",
-                    "email" : "",
-                    "urls": [
-                        {
-                            "name" : "Tribunal",
-                            "url" : "http://onoratainstanta.ro/"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          26.1606045,
+          44.4181666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Andrei Cristian Petcu",
+          "location": "Bucharest, Romania",
+          "twitter" : "",
+          "github" : "andreicristianpetcu",
+          "facebook" : "",
+          "email" : "",
+          "urls": [
+            {
+              "name" : "Tribunal",
+              "url" : "http://onoratainstanta.ro/"
+            }
+          ]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    37.567126,
-                    55.694463
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Denis",
-                    "location": "Moscow",
-                    "twitter" : "@rykovd",
-                    "github" : "drnextgis",
-                    "facebook" : "",
-                    "email" : "",
-                    "urls": [
-                        {
-                            "name" : "Votemapper",
-                            "url" : "http://nextgis.github.io/vm-2011-moscow-duma/"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.567126,
+          55.694463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Denis",
+          "location": "Moscow",
+          "twitter" : "@rykovd",
+          "github" : "drnextgis",
+          "facebook" : "",
+          "email" : "",
+          "urls": [
+            {
+              "name" : "Votemapper",
+              "url" : "http://nextgis.github.io/vm-2011-moscow-duma/"
+            }
+          ]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    21.0188435,
-                    52.1975395
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "data": {
-                    "name": "Kamil",
-                    "location": "Warszawa, Poland",
-                    "twitter" : "",
-                    "github" : "",
-                    "facebook" : "Dzakus",
-                    "email" : "dzakus13@gmail.com",
-                    "urls": [
-                        {
-                            "name" : "Civic Data Mining",
-                            "url" : "http://dane.siecobywatelska.pl/"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          21.0188435,
+          52.1975395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Kamil",
+          "location": "Warszawa, Poland",
+          "twitter" : "",
+          "github" : "",
+          "facebook" : "Dzakus",
+          "email" : "dzakus13@gmail.com",
+          "urls": [
+            {
+              "name" : "Civic Data Mining",
+              "url" : "http://dane.siecobywatelska.pl/"
+            }
+          ]
         },
-        {
-            "geometry": {
-                "coordinates": [
-                    21.0221943,
-                    52.2343439
-                ],
-                "type": "Point"
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          21.0221943,
+          52.2343439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Magda",
+          "location": "Warsaw",
+          "twitter" : "",
+          "github" : "",
+          "facebook" : "",
+          "email" : "",
+          "urls": [
+            {
+              "name" : "",
+              "url" : "http://"
+            }
+          ]
+        },
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.178864,
+          50.4186355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Michal Skop",
+          "location": "Nachod",
+          "twitter" : "@skopmichal",
+          "github" : "",
+          "facebook" : "",
+          "email" : "",
+          "urls": [
+            {
+              "name" : "KohoVolit.eu",
+              "url" : "http://kohovolit.eu"
             },
-            "properties": {
-                "data": {
-                    "name": "Magda",
-                    "location": "Warsaw",
-                    "twitter" : "",
-                    "github" : "",
-                    "facebook" : "",
-                    "email" : "",
-                    "urls": [
-                        {
-                            "name" : "",
-                            "url" : "http://"
-                        }
-                    ]
-                },
-                "description": "",
-                "href": "",
-                "id": "",
-                "title": ""
-            },
-            "type": "Feature"
-        }
+            { "name": "Voting advice application",
+              "url": "http://volebnikalkulacka.cz/en"
+            }
+          ]
+        },
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          20.9790647,
+          52.270994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Alicja Peszkowska",
+          "location": "Warsaw",
+          "twitter" : "@alicjapeas",
+          "github" : "",
+          "facebook" : "",
+          "email" : "apeszkowska@techsoupglobal.org",
+          "urls": []
+        },
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+        13.4131676,
+        52.5219831 
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Knut Hühne",
+          "location": "Berlin",
+          "twitter" : "",
+          "github" : "",
+          "facebook" : "",
+          "email" : "",
+          "urls": [{"name": "Personal website", "url": "http://k-nut.eu"}]
+        },
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
+    }
 
-    ]
+  ]
 }
