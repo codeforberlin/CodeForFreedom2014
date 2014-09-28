@@ -49,6 +49,190 @@
                 "title": ""
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.4633968,
+                    54.5037932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Martyna Adamczak",
+                    "location": "Gdynia",
+                    "twitter" : "@galeriawdomu",
+                    "github" : "",
+                    "urls": {
+                        "galeriawdomu.pl" : "http://galeriawdomu.pl"
+                    }
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.446865,
+                    54.549866
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Magdalena Abraham",
+                    "location": "Gdynia",
+                    "twitter" : "",
+                    "github" : "",
+                    "facebook" : "magdalena.abraham.9",
+                    "urls": {
+
+                    }
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.9107843,
+                    51.1392662
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Radek",
+                    "location": "Wroclaw",
+                    "twitter" : "@ripemd",
+                    "github" : "",
+                    "facebook" : "",
+                    "urls": {
+
+                    }
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.4954952,
+                    51.7604993
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Andrzej",
+                    "location": "Lodz",
+                    "twitter" : "@mikolajewski_a",
+                    "github" : "",
+                    "facebook" : "andr.mikw",
+                    "urls": {
+                        "Obywatele rozliczaja" : "http://obywatelerozliczaja.pl"
+                    }
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    60.6549335,
+                    56.813891
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Sergey",
+                    "location": "Ekaterinburg",
+                    "twitter" : "@poteryaevs",
+                    "github" : "",
+                    "facebook" : "",
+                    "urls": {
+                        "Map for homeless people" : "http://partizaning.org/warsaw"
+                    }
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.632495,
+                    55.749792
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Svetlana Shuranova",
+                    "location": "Moscow",
+                    "twitter" : "@seasuaoa",
+                    "github" : "",
+                    "facebook" : "keepasecret",
+                    "urls": {
+                        "Basic record of everyone" : "http://dostup.vps-private.net"
+                    }
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3569074,
+                    48.8540588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Olga Kravets",
+                    "location": "Paris",
+                    "twitter" : "",
+                    "github" : "",
+                    "facebook" : "olga.kravets",
+                    "urls": {
+                        "olgakravets.com" : "http://olgakravets.com"
+                    }
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
         }
+
+
+
     ]
 }
