@@ -1,0 +1,54 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3372238,
+                    52.5500361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Tobias Preuss",
+                    "location": "Berlin",
+                    "twitter" : "@tbsprs",
+                    "github" : "johnjohndoe",
+                    "urls": {
+                        "Code for Berlin" : "http://codefor.de/berlin"
+                    }
+                },
+                "description": "",
+                "href": "http://codefor.de/berlin",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.5119682,
+                    52.5322257
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Thomas Tursics ",
+                    "location": "Berlin",
+                    "twitter": "@tursics",
+                    "github" : "tursics",
+                    "urls": {
+                        "Code for Berlin" : "http://codefor.de/berlin"
+                    }
+                },
+                "description": "",
+                "href": "http://codefor.de/berlin",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        }
+    ]
+}
