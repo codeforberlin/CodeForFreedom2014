@@ -13,15 +13,24 @@
       <p class="social"><i class="fa fa-twitter"></i> Twitter: <a target="_blank" href="http://twitter.com/{{ twitter }}">{{ twitter }} </a> </p>
       {{/if}}
       {{# if github }}
-      <p class="social"><i class="fa fa-github"></i> Github: <a target="_blank" href="http://github.com/{{ github }}">{{ github }}<a></p>
-      {{/if}}
-      {{# if facebook }}
-      <p class="social"><i class="fa fa-facebook"></i> Facebook: <a target="_blank" href="http://facebook.com/{{ facebook }}">{{ facebook }}<a></p>
-      {{/if}}
-        </script>
-      </head>
-      <body>
-        <div id='map'>
-        </div>
-      </body>
-    </html>
+      <p class="social"><i class="fa fa-github"></i> Github: <a target="_blank" href="https://github.com/{{ github }}">{{ github }}</a></p>
+          {{/if}}
+          {{# if facebook }}
+          <p class="social"><i class="fa fa-facebook"></i> Facebook: <a target="_blank" href="https://facebook.com/{{ facebook }}">{{ facebook }}</a></p>
+              {{/if}}
+
+          {{# each urls }}
+          <p class="social"><i class="fa fa-cloud"></i> Website: <a target="_blank" href="{{ url }}">{{ name }}</a></p>
+              {{/each}}
+            </script>
+            <style>
+              .leaflet-popup-content p {
+                margin: 0;
+              }
+            </style>
+          </head>
+          <body>
+            <div id='map'>
+            </div>
+          </body>
+        </html>

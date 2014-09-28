@@ -14,9 +14,9 @@
                     "location": "Berlin",
                     "twitter" : "@tbsprs",
                     "github" : "johnjohndoe",
-                    "urls": {
-                        "Code for Berlin" : "http://codefor.de/berlin"
-                    }
+                    "urls": [{ "name":
+                        "Code for Berlin", "url": "http://codefor.de/berlin"
+                    }]
                 },
                 "description": "",
                 "href": "http://codefor.de/berlin",
@@ -39,9 +39,9 @@
                     "location": "Berlin",
                     "twitter": "@tursics",
                     "github" : "tursics",
-                    "urls": {
-                        "Code for Berlin" : "http://codefor.de/berlin"
-                    }
+                    "urls": [{ "name":
+                        "Code for Berlin", "url": "http://codefor.de/berlin"
+                    }]
                 },
                 "description": "",
                 "href": "http://codefor.de/berlin",
@@ -64,9 +64,9 @@
                     "location": "Gdynia",
                     "twitter" : "@galeriawdomu",
                     "github" : "",
-                    "urls": {
-                        "galeriawdomu.pl" : "http://galeriawdomu.pl"
-                    }
+                    "urls": [{
+                        "name":"galeriawdomu.pl", "url": "http://galeriawdomu.pl"
+                    }]
                 },
                 "description": "",
                 "href": "",
@@ -142,9 +142,9 @@
                     "twitter" : "@mikolajewski_a",
                     "github" : "",
                     "facebook" : "andr.mikw",
-                    "urls": {
-                        "Obywatele rozliczaja" : "http://obywatelerozliczaja.pl"
-                    }
+                    "urls": [{
+                        "name":"Obywatele rozliczaja", "url" : "http://obywatelerozliczaja.pl"
+                    }]
                 },
                 "description": "",
                 "href": "",
@@ -168,9 +168,9 @@
                     "twitter" : "@poteryaevs",
                     "github" : "",
                     "facebook" : "",
-                    "urls": {
-                        "Map for homeless people" : "http://partizaning.org/warsaw"
-                    }
+                    "urls": [{
+                        "name":"Map for homeless people", "url" : "http://partizaning.org/warsaw"
+                    }]
                 },
                 "description": "",
                 "href": "",
@@ -194,9 +194,9 @@
                     "twitter" : "@seasuaoa",
                     "github" : "",
                     "facebook" : "keepasecret",
-                    "urls": {
-                        "Basic record of everyone" : "http://dostup.vps-private.net"
-                    }
+                    "urls": [{
+                        "name": "Basic record of everyone", "url" : "http://dostup.vps-private.net"
+                    }]
                 },
                 "description": "",
                 "href": "",
@@ -220,9 +220,9 @@
                     "twitter" : "",
                     "github" : "",
                     "facebook" : "olga.kravets",
-                    "urls": {
-                        "olgakravets.com" : "http://olgakravets.com"
-                    }
+                    "urls": [{
+                        "name" :"olgakravets.com", "url" : "http://olgakravets.com"
+                    }]
                 },
                 "description": "",
                 "href": "",
@@ -246,9 +246,9 @@
                     "twitter" : "",
                     "github" : "",
                     "facebook" : "igor.ponosov",
-                    "urls": {
-                        "partizaning.org" : "http://partizaning.org"
-                    }
+                    "urls": [{
+                        "name": "partizaning.org", "url" : "http://partizaning.org"
+                    }]
                 },
                 "description": "",
                 "href": "",
