@@ -230,7 +230,60 @@
                 "title": ""
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.663831,
+                    55.73133
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Igor Ponosov",
+                    "location": "Moscow",
+                    "twitter" : "",
+                    "github" : "",
+                    "facebook" : "igor.ponosov",
+                    "urls": {
+                        "partizaning.org" : "http://partizaning.org"
+                    }
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.632444,
+                    55.772293
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data": {
+                    "name": "Oleg Gant",
+                    "location": "Moscow",
+                    "twitter" : "@newreporter_org",
+                    "github" : "",
+                    "facebook" : "oleg.gant",
+                    "urls": {
+                        "te-st.ru" : "http://te-st.ru"
+                    }
+                },
+                "description": "",
+                "href": "",
+                "id": "",
+                "title": ""
+            },
+            "type": "Feature"
         }
+
 
 
 
