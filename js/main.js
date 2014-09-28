@@ -1,11 +1,13 @@
 require.config({
   paths: {
-    leaflet: "//cdn.leafletjs.com/leaflet-0.7.3/leaflet"
+    leaflet: "//cdn.leafletjs.com/leaflet-0.7.3/leaflet",
+    handlebars: "./handlebars-v2.0.0",
+    jquery: "//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min"
   }
 });
 
 
-require(["leaflet"], function(L){
+require(["leaflet", "handlebars", "jquery"], function(L, handlebars, $){
   "use strict";
   // create a map in the "map" div, set the view to a given place and zoom
   var map = L.map("map").setView([52.505, 10.09], 6);
@@ -35,19 +37,19 @@ require(["leaflet"], function(L){
     people = data;
   })
   .done(function(){
-    add_people(people);
+    addPeople(people);
   });
 
   var mappedPeople = [];
-  function add_people(data){
+  var source   = $("#popup-template").html();
+  var template = handlebars.compile(source);
+
+  function addPeople(data){
     map.removeLayer(mappedPeople);
     mappedPeople = L.geoJson(data, {
       onEachFeature: function (feature, layer) {
         // TODO: Render popup
-        var content =
-            '<h1 class="person">' + layer.feature.properties.data.name + '<\/h1>' +
-            '<p class="social">Twitter: ' + layer.feature.properties.data.twitter + '<\/p>' +
-            '<p class="social">Github: <a href="http:\/\/github.com\/' + layer.feature.properties.data.github + '">' + layer.feature.properties.data.github + '<a><\/p>';
+        var content = template(layer.feature.properties.data);
         layer.bindPopup(content);
       }
     }).addTo(map);
