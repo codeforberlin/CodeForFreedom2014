@@ -900,7 +900,31 @@
         "title": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+		30.3250575,
+		59.9174455
+	],
+        "type": "Point"
+      },
+      "properties": {
+        "data": {
+          "name": "Vitaly Vlasov",
+          "location": "St.Petersburg",
+          "twitter" : "inxaoc",
+          "github" : "inxaoc",
+          "facebook" : "vitaly.vlasov",
+          "email" : "inxaoc@gmail.com",
+          "urls": [{"name": "Open City Foundation", "url": "http://myopencity.org"}]
+        },
+        "description": "",
+        "href": "",
+        "id": "",
+        "title": ""
+      },
+      "type": "Feature"
     }
-
   ]
 }
