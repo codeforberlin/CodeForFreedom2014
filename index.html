@@ -18,36 +18,41 @@
       {{/if}}
       {{# if github }}
       <p class="social"><i class="fa fa-github"></i> Github: <a target="_blank" href="https://github.com/{{ github }}">{{ github }}</a></p>
-          {{/if}}
-          {{# if facebook }}
-          <p class="social"><i class="fa fa-facebook"></i> Facebook: <a target="_blank" href="https://facebook.com/{{ facebook }}">{{ facebook }}</a></p>
-              {{/if}}
-          {{# if email }}
-          <p class="social"><i class="fa fa-envelope"></i> E-Mail: <a target="_blank" href="mailto:{{ email }}">{{ email }}</a></p>
-              {{/if}}
+      {{/if}}
+      {{# if facebook }}
+      <p class="social"><i class="fa fa-facebook"></i> Facebook: <a target="_blank" href="https://facebook.com/{{ facebook }}">{{ facebook }}</a></p>
+      {{/if}}
+      {{# if email }}
+      <p class="social"><i class="fa fa-envelope"></i> E-Mail: <a target="_blank" href="mailto:{{ email }}">{{ email }}</a></p>
+      {{/if}}
 
-          {{# each urls }}
-          <p class="social"><i class="fa fa-cloud"></i> Website: <a target="_blank" href="{{ url }}">{{ name }}</a></p>
-              {{/each}}
-            </script>
-            <style>
-              .leaflet-popup-content p {
-                margin: 0;
-              }
-              #name{
-                z-index: 200;
-                position: absolute;
-                top: 25px;
-                right: 25px;
-                background-color:lightgray;
-                border-radius: 5px;
-                padding: 5px;
-              }
-            </style>
-          </head>
-          <body>
-            <img src="http://www.codeforfreedom.org/wp-content/themes/codeforfreedom/images/logo.png" id="name"/>
-            <div id='map'>
-            </div>
-          </body>
-        </html>
+      {{# each urls }}
+      <p class="social"><i class="fa fa-cloud"></i> Website: <a target="_blank" href="{{ url }}">{{ name }}</a></p>
+      {{/each}}
+    </script>
+    <style>
+      .leaflet-popup-content p {
+      margin: 0;
+      }
+      #logo{
+      z-index: 200;
+      position: absolute;
+      top: 25px;
+      right: 25px;
+      background-color:lightgray;
+      border-radius: 5px;
+      padding: 5px;
+      }
+      @media (max-width: 600px) {
+      #logo {
+        width: 30%;
+      }
+      }
+    </style>
+  </head>
+  <body>
+    <img src="http://www.codeforfreedom.org/wp-content/themes/codeforfreedom/images/logo.png" id="logo"/>
+    <div id='map'>
+    </div>
+  </body>
+</html>
