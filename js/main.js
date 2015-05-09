@@ -1,8 +1,8 @@
 require.config({
   paths: {
-    leaflet: "//cdn.leafletjs.com/leaflet-0.7.3/leaflet",
-    handlebars: "./handlebars-v2.0.0",
-    jquery: "//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min"
+    leaflet: "/bower_components/leaflet/dist/leaflet",
+    handlebars: "/bower_components/handlebars/handlebars.amd",
+    jquery: "/bower_components/jquery/dist/jquery.min"
   }
 });
 

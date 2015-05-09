@@ -1,0 +1,19 @@
+{
+  "name": "CodeForFreedom2014",
+  "version": "0.1.0",
+  "homepage": "http://johnjohndoe.github.io/CodeForFreedom2014/",
+  "authors": [
+    "Knut Hühne <knut@k-nut.eu>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
