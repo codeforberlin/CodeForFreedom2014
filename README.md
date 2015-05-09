@@ -44,7 +44,12 @@ Please find coordinates of your town and district to avoid overlapping markers o
 },
 ```
 
+## Build
+In order to create your working copy clone the repository, `cd` into it and run
+`bower install`. If this does not work for you follow the [bower install instructions](http://bower.io/#install-bower)
+
 ## Authors
 
 * Tobias Preuss
 * Knut Hühne
+

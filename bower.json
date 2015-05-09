@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "homepage": "http://johnjohndoe.github.io/CodeForFreedom2014/",
   "authors": [
-    "Knut Hühne <knut@k-nut.eu>"
+    "Knut Hühne <knut@k-nut.eu>",
+    "Tobias Preuss"
   ],
   "license": "MIT",
   "ignore": [
