@@ -1,8 +1,8 @@
 require.config({
   paths: {
-    leaflet: "/bower_components/leaflet/dist/leaflet",
-    handlebars: "/bower_components/handlebars/handlebars.amd",
-    omnivore: "/bower_components/leaflet-omnivore/leaflet-omnivore",
+    leaflet: "../bower_components/leaflet/dist/leaflet",
+    handlebars: "../bower_components/handlebars/handlebars.amd",
+    omnivore: "../bower_components/leaflet-omnivore/leaflet-omnivore",
   }
 });
 
@@ -36,8 +36,8 @@ require(["leaflet", "handlebars", "omnivore"], function(L, handlebars, omnivore)
                               }
                             });
   
-  omnivore.topojson("/countries/codeforfreedom-countries.topojson", null, countriesLayer).addTo(map);
+  omnivore.topojson("./countries/codeforfreedom-countries.topojson", null, countriesLayer).addTo(map);
 
-  omnivore.geojson("/people/people.json", null, peopleLayer).addTo(map);
+  omnivore.geojson("./people/people.json", null, peopleLayer).addTo(map);
 
 });
