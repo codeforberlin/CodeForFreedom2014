@@ -2,13 +2,12 @@ require.config({
   paths: {
     leaflet: "/bower_components/leaflet/dist/leaflet",
     handlebars: "/bower_components/handlebars/handlebars.amd",
-    jquery: "/bower_components/jquery/dist/jquery.min",
     omnivore: "/bower_components/leaflet-omnivore/leaflet-omnivore",
   }
 });
 
 
-require(["leaflet", "handlebars", "jquery", "omnivore"], function(L, handlebars, $, omnivore){
+require(["leaflet", "handlebars", "omnivore"], function(L, handlebars, omnivore){
   "use strict";
   // create a map in the "map" div, set the view to a given place and zoom
   var map = L.map("map").setView([52.505, 10.09], 4);
@@ -18,6 +17,9 @@ require(["leaflet", "handlebars", "jquery", "omnivore"], function(L, handlebars,
     attribution: "&copy; <a href='http://osm.org/copyright'>OpenStreetMap</a> contributors"
   }).addTo(map);
 
+  var source   = document.getElementById("popup-template").innerHTML;
+  var template = handlebars.compile(source);
+
 
   var countriesLayer = L.geoJson(null, { style:
                                           {
@@ -26,32 +28,16 @@ require(["leaflet", "handlebars", "jquery", "omnivore"], function(L, handlebars,
                                           }
                                         }
                                  ).addTo(map);
+
+  var peopleLayer = L.geoJson(null, {
+                              onEachFeature: function (feature, layer) {
+                                var content = template(layer.feature.properties.data);
+                                layer.bindPopup(content);
+                              }
+                            });
   
   omnivore.topojson("/countries/codeforfreedom-countries.topojson", null, countriesLayer).addTo(map);
 
-
-  // People from everywhere
-  var people;
-  $.getJSON("people/people.json", function(data) {
-    people = data;
-  })
-  .done(function(){
-    addPeople(people);
-  });
-
-  var mappedPeople = [];
-  var source   = document.getElementById("popup-template").innerHTML;
-  var template = handlebars.compile(source);
-
-  function addPeople(data){
-    map.removeLayer(mappedPeople);
-    mappedPeople = L.geoJson(data, {
-      onEachFeature: function (feature, layer) {
-        // TODO: Render popup
-        var content = template(layer.feature.properties.data);
-        layer.bindPopup(content);
-      }
-    }).addTo(map);
-  }
+  omnivore.geojson("/people/people.json", null, peopleLayer).addTo(map);
 
 });
